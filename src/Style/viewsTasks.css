@@ -1,0 +1,13 @@
+.completedFormGroup {
+    display: flex;
+    gap: 1%
+}
+
+.formNewTask {
+    margin-top: 2%;
+    display: none;
+}
+
+.formNewTaskOn {
+    display: block;
+}

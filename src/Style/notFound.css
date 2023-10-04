@@ -1,0 +1,11 @@
+.mainNotFound {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mainNotFound img {
+    width: 250px;
+}

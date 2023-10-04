@@ -1,0 +1,17 @@
+.formLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formLogin h2 {
+    margin-bottom: 5%;
+}
+
+.errorDisplayLogin {
+    display: none;
+}
+
+.errorDisplayLoginOn {
+    display: block;
+}

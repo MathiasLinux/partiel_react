@@ -1,0 +1,17 @@
+.homeMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeMiddle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeButtons{
+    display: flex;
+    gap: 6%
+}

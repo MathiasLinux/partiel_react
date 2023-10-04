@@ -1,0 +1,27 @@
+.checkboxEditTask {
+    display: flex;
+    gap: 2%
+}
+
+.buttonsEditTask {
+    display: flex;
+    justify-content: space-between;
+}
+
+.formAddComment {
+    margin-top: 3%;
+    display: none;
+}
+
+.formAddCommentOn {
+    display: block;
+}
+
+.commentDisplay {
+    margin-top: 2%;
+}
+
+.commentMainDiv {
+    display: flex;
+    justify-content: space-between;
+}
